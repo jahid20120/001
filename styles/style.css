@@ -1,0 +1,43 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.one {
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+    font-size: large;
+}
+.one h1 {
+    text-align: center;
+    color: rgb(122, 105, 235);
+
+    font-weight: 900;
+}
+.two {
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+    font-size: large;
+}
+.two h1 {
+    text-align: center;
+    color: rgb(122, 105, 235);
+
+    font-weight: 900;
+}
+.three {
+    background-color: aqua;
+    padding: 10px;
+    margin: 5px;
+    text-align: justify;
+    font-size: large;
+}
+.three h1 {
+    text-align: center;
+    color: rgb(122, 105, 235);
+
+    font-weight: 900;
+}
